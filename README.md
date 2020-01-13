@@ -5,8 +5,9 @@
 [Peerat Sukcharoenyingyong](https://github.com/peeratmac)  
 [Heather Faerber](https://github.com/hfaerber)  
 
-Link to original project's project management board:
-https://github.com/peeratmac/rancid-tomatillos/projects/1
+[Link to original project's project management board](https://github.com/peeratmac/rancid-tomatillos/projects/1)
+
+[Link to original project repo with PR reviews and communication](https://github.com/peeratmac/rancid-tomatillos/pulls?q=is%3Apr+is%3Aclosed)
 
 An application which uses the Fetch API to retrieve movie data and display the
 movie information, including average rating. When logged in, users can add their
